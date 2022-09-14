@@ -1,0 +1,14 @@
+Download the file microPopGut_1.0.tar.gz
+
+
+Making sure the file is in the same directory, at the R prompt type
+
+install.packages('microPopGut_1.0.tar.gz')
+
+
+To use the package, type
+
+library(microPopGut)
+
+
+See getStartedWithMicroPopGut.pdf for how to use package.

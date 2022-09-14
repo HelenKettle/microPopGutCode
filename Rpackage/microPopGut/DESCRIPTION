@@ -1,0 +1,41 @@
+Package: microPopGut
+Type: Package
+Title: Process-Based Model of Microbes in Human Colon
+Version: 1.0
+Date: 2022-02-23
+Authors@R: person("Helen", "Kettle", role = c("aut", "cre"),
+           email = "Helen.Kettle@bioss.ac.uk",
+           comment = c(ORCID = "0000-0002-6960-9733"))
+Description: This model uses the microPop package to simulate the dynamics of microbes in the human colon. The colon is divided into three compartments (proximal, transverse and distal). The microbes are divided into 10 functional groups and 10 metabolites are modelled. Incoming substrate is divided into protein and carbohydrates (resistant starch and non-starch polysaccharides (NSP)) and can be fluctuating to simulate meals eaten. Bowel movements can also be simulated. 
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+VignetteBuilder: R.rsp
+Depends:
+    microPop (>= 1.6),
+    deSolve,
+    stats,
+    grDevices,
+    graphics
+Suggests: 
+    testthat,
+    rmarkdown,
+    knitr,
+    R.rsp
+Collate: 
+    'computeSCFA.R'
+    'entryRateFuncMPG.R'
+    'growthLimFuncMPG.R'
+    'inflowFuncs.R'
+    'makeInflowMat.R'
+    'microPopGut.R'
+    'removalRateFuncMPG.R'
+    'pHLimFuncMPG.R'
+    'pHFuncMPG.R'
+    'newRateFunctions.R'
+    'plotMPG.R'
+    'settings.R'
+    'subsetFunc.R'
+    'verification.R'

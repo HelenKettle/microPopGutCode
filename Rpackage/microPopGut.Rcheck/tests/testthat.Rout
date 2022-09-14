@@ -1,0 +1,89 @@
+
+R version 3.6.0 (2019-04-26) -- "Planting of a Tree"
+Copyright (C) 2019 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(testthat)
+> library(microPopGut)
+Loading required package: microPop
+Loading required package: deSolve
+Loading required package: visNetwork
+> 
+> test_check("microPopGut")
+[1] "required means are:"
+    A     B     C water 
+    1     2     3  1100 
+[1] "over 2 days, fluctuating means are:"
+[1] "A 1"
+[1] "B 2"
+[1] "C 3"
+[1] "water 1100"
+[1] "start pass through small intestine"
+[1] "finish pass  through small intestine"
+[1] "means are:"
+[1] "A 0.86"
+[1] "B 1.79"
+[1] "C 2.47"
+[1] "water 965.25"
+[1] "required means are:"
+    A     B     C water 
+    1     2     3  1100 
+[1] "over 2 days, fluctuating means are:"
+[1] "A 1"
+[1] "B 2"
+[1] "C 3"
+[1] "water 1100"
+[1] "start pass through small intestine"
+[1] "finish pass  through small intestine"
+[1] "means are:"
+[1] "A 0.84"
+[1] "B 1.73"
+[1] "C 2.43"
+[1] "water 970.37"
+[1] "required means are:"
+    A     B     C water 
+    1     2     3  1100 
+[1] "over 2 days, fluctuating means are:"
+[1] "A 1"
+[1] "B 2"
+[1] "C 3"
+[1] "water 1100"
+[1] "start pass through small intestine"
+[1] "finish pass  through small intestine"
+[1] "means are:"
+[1] "A 0.9"
+[1] "B 1.57"
+[1] "C 2.6"
+[1] "water 925.58"
+[1] "required means are:"
+    A     B     C water 
+    1     2     3  1100 
+[1] "over 2 days, fluctuating means are:"
+[1] "A 1"
+[1] "B 2"
+[1] "C 3"
+[1] "water 1100"
+[1] "start pass through small intestine"
+[1] "finish pass  through small intestine"
+[1] "means are:"
+[1] "A 0.88"
+[1] "B 1.65"
+[1] "C 2.44"
+[1] "water 931.54"
+[ FAIL 0 | WARN 0 | SKIP 0 | PASS 58 ]
+> 
+> proc.time()
+   user  system elapsed 
+ 19.872   0.155  20.015 

@@ -1,0 +1,725 @@
+Hmm ... looks like a package
+
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./Rd2.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/texmf/tex/latex/Rd.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu)))
+Writing index file Rd2.idx
+No file Rd2.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [1{/usr/share/texlive/t
+exmf/fonts/map/pdftex/updmap/pdftex.map}]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (60.78088pt too wide) in paragraph at lines 78--78
+ []\T1/pcr/m/n/10 entryRateFuncMPG(varName, varValue, stateVarValues, time, inf
+lowRate, parms)[] 
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [2]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [3] [4]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (22.6782pt too wide) in paragraph at lines 253--254
+[]\T1/ptm/m/n/10 a named vec-tor con-trol-ling the shape of the gamma func-tion
+, e.g. c(A=0.5,B=1,C=1.5) 
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [5]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [6]
+Overfull \hbox (72.78088pt too wide) in paragraph at lines 331--331
+ []  \T1/pcr/m/n/10 pH.pars = list(pH.fixed = c(5.7, 6.2, 6.6), fix.pH = FALSE,
+ pHLimit = TRUE),[] 
+
+Overfull \hbox (96.78088pt too wide) in paragraph at lines 332--332
+ []  \T1/pcr/m/n/10 colon.pars = list(vol.litres = c(0.41, 0.98, 1.63), compart
+mentNames = c("prox",[] 
+
+Overfull \hbox (108.78088pt too wide) in paragraph at lines 334--334
+ []  \T1/pcr/m/n/10 bowel.movements = list(BM.duration.h = 15/60, frac.distal.e
+mptied = 0.9, BMpd = 0,[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 336--336
+ []  \T1/pcr/m/n/10 init = list(C = 1, P = 1, B = 10, Acetate = 0.3606, Propion
+ate = 0.1482, Butyrate =[] 
+
+Overfull \hbox (102.78088pt too wide) in paragraph at lines 339--339
+ []  \T1/pcr/m/n/10 meals = list(seed = 1, fluc.inflow = FALSE, fluc.subst.comp
+ = FALSE, plotInflow =[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 340--340
+ []    \T1/pcr/m/n/10 FALSE, saveInflowFig = FALSE, breakfast.start = 7, lunch.
+start = 13, dinner.start =[] 
+
+Overfull \hbox (42.78088pt too wide) in paragraph at lines 341--341
+ []    \T1/pcr/m/n/10 19, meal.duration.h = 0.5, time.to.reach.colon.h = 7, gam
+ma.mag = 1),[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 342--342
+ []  \T1/pcr/m/n/10 mucin = list(mucin.rate = 5, RS.frac.mucin = 0.5, mucin.deg
+rader = c("Bacteroides",[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 343--343
+ []    \T1/pcr/m/n/10 "NoButyFibreDeg"), halfSat.mucin = 0.5, P.frac.mucin = 0.
+2, C.frac.mucin = 0.75),[] 
+
+Overfull \hbox (120.78088pt too wide) in paragraph at lines 348--348
+ []  \T1/pcr/m/n/10 plotOptions = list(yLabel = "Concentration (g/L)", xLabel =
+ "Time", plotFig = FALSE,[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 349--349
+ []    \T1/pcr/m/n/10 sumOverStrains = FALSE, saveFig = FALSE, figType = "eps",
+ figName = "microPopFig"),[] 
+
+Overfull \hbox (0.78088pt too wide) in paragraph at lines 350--350
+ []  \T1/pcr/m/n/10 odeOptions = list(atol = 1e-06, rtol = 1e-06, method = "lso
+da"),[] 
+
+Overfull \hbox (60.78088pt too wide) in paragraph at lines 351--351
+ []  \T1/pcr/m/n/10 strainOptions = list(randomParams = c("halfSat", "yield", "
+maxGrowthRate",[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 352--352
+ []    \T1/pcr/m/n/10 "pHtrait"), seed = 1, distribution = "uniform", percentTr
+aitRange = 0, maxPHshift =[] 
+
+Overfull \hbox (72.78088pt too wide) in paragraph at lines 353--353
+ []    \T1/pcr/m/n/10 0, applyTradeOffs = FALSE, tradeOffParams = NULL, paramsS
+pecified = FALSE,[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 355--355
+ []  \T1/pcr/m/n/10 checkingOptions = list(checkMassConv = FALSE, balanceTol = 
+0.01, reBalanceStoichiom =[] 
+
+Overfull \hbox (120.78088pt too wide) in paragraph at lines 356--356
+ []    \T1/pcr/m/n/10 FALSE, stoiTol = 0.1, checkForNegs = TRUE, negTol = -0.01
+, checkStoichiomBalance =[] 
+
+Overfull \hbox (97.38643pt too wide) in paragraph at lines 379--380
+[]\T1/ptm/m/n/10 list con-trol-ling pH in the model. De-fault is list(pH.fixed=
+c(5.7,6.2,6.6),fix.pH=FALSE,pHLimit=TRUE), 
+[7]
+Overfull \hbox (166.8252pt too wide) in paragraph at lines 389--390
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing colon. De-fault is list(vol
+.litres=c(0.41,0.98,1.63),compartmentNames=c('prox','trans','dist')) 
+
+Overfull \hbox (134.62585pt too wide) in paragraph at lines 391--392
+[]\T1/ptm/m/n/10 List of pa-ram-e-ters for mod-elling bowel move-ments. De-faul
+t is list(BM.duration.h=15/60,frac.distal.emptied=0.90,
+
+Overfull \hbox (248.71489pt too wide) in paragraph at lines 402--403
+\T1/ptm/m/n/10 Pro-pi-onate and Bu-tyrate and wa-ter (W) in grams. De-fault val
+-ues are: list(C=1,P=1,B=10,Acetate=0.3606,Propionate=0.1482,Butyrate=0.1762,
+
+Overfull \hbox (703.16997pt too wide) in paragraph at lines 406--407
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing meals. De-fault is list(see
+d=1,fluc.inflow=FALSE,fluc.subst.comp=FALSE,plotInflow=FALSE,saveInflowFig=FALS
+E,breakfast.start=7,lunch.start=13,dinner.start=19,meal.duration.h=0.5,time.to.
+reach.colon.h=7,gamma.mag=1) 
+
+Overfull \hbox (458.9524pt too wide) in paragraph at lines 424--425
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing mucins. De-fault is list(mu
+cin.rate=5,RS.frac.mucin=0.5,mucin.degrader=c('Bacteroides','NoButyFibreDeg'),h
+alfSat.mucin=0.5,P.frac.mucin=0.2,C.frac.mucin=0.75) 
+[8]
+Overfull \hbox (2.66699pt too wide) in paragraph at lines 445--447
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for plot-ting: De-fault is li
+st(plotFig=TRUE, sumOver-
+
+Overfull \hbox (3.138pt too wide) in paragraph at lines 445--447
+\T1/ptm/m/n/10 Strains=FALSE, save-Fig=FALSE, fig-Type='eps', fig-Name='microPo
+pFig', yLa-
+
+Overfull \hbox (9.90642pt too wide) in paragraph at lines 448--449
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for the ODE solver ('de-S-olv
+e'). De-fault: list('atol'=1e-
+
+Overfull \hbox (84.47556pt too wide) in paragraph at lines 450--451
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for spec-i-fy-ing strain pa-r
+am-e-ters. De-fault: list(randomParams=c('halfSat',
+
+Overfull \hbox (7.5678pt too wide) in paragraph at lines 450--451
+\T1/ptm/m/n/10 TraitRange=0, maxPHshift=0., ap-ply-Trade-Offs=FALSE, trade-Off-
+Params=NULL,
+[9] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (7.20671pt too wide) in paragraph at lines 502--503
+[]\T1/ptm/m/n/10 rateFuncsDefault=list(pHFunc=pHFuncDefault, pHLim-Func=pHLimFu
+ncDefault, ex-tra-Growth-Lim-
+
+Overfull \hbox (5.92717pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 Func=extraGrowthLimFuncDefault, growth-Lim-Func=growthLimFuncDef
+ault, com-bine-Growth-Lim-
+
+Overfull \hbox (64.09683pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 Func=combineGrowthLimFuncDefault, up-take-Func=uptakeFuncDefault
+, pro-duc-tion-Func=productionFuncDefault,
+
+Overfull \hbox (23.42612pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 com-binePaths-Func=combinePathsFuncDefault, mass-Bal-ance-Func=m
+assBalanceFuncDefault, en-tryRate-
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [10]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [11]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (54.78088pt too wide) in paragraph at lines 590--590
+ []\T1/pcr/m/n/10 removalRateFuncMPG(varName, varValue, stateVarValues, time, w
+ashOut, parms)[] 
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [12]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+No file Rd2.ind.
+[13] (./Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/
+courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (13 pages, 98719 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2013] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (19 entries accepted, 0 rejected).
+Sorting entries....done (81 comparisons).
+Generating output file Rd2.ind....done (55 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./Rd2.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/texmf/tex/latex/Rd.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu)))
+Writing index file Rd2.idx
+(./Rd2.aux) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./Rd2.out) (./Rd2.out) (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd) (./Rd2.toc [1{/usr/sh
+are/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (60.78088pt too wide) in paragraph at lines 78--78
+ []\T1/pcr/m/n/10 entryRateFuncMPG(varName, varValue, stateVarValues, time, inf
+lowRate, parms)[] 
+[2] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [3]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [4]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (22.6782pt too wide) in paragraph at lines 253--254
+[]\T1/ptm/m/n/10 a named vec-tor con-trol-ling the shape of the gamma func-tion
+, e.g. c(A=0.5,B=1,C=1.5) 
+[5] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [6]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (72.78088pt too wide) in paragraph at lines 331--331
+ []  \T1/pcr/m/n/10 pH.pars = list(pH.fixed = c(5.7, 6.2, 6.6), fix.pH = FALSE,
+ pHLimit = TRUE),[] 
+
+Overfull \hbox (96.78088pt too wide) in paragraph at lines 332--332
+ []  \T1/pcr/m/n/10 colon.pars = list(vol.litres = c(0.41, 0.98, 1.63), compart
+mentNames = c("prox",[] 
+
+Overfull \hbox (108.78088pt too wide) in paragraph at lines 334--334
+ []  \T1/pcr/m/n/10 bowel.movements = list(BM.duration.h = 15/60, frac.distal.e
+mptied = 0.9, BMpd = 0,[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 336--336
+ []  \T1/pcr/m/n/10 init = list(C = 1, P = 1, B = 10, Acetate = 0.3606, Propion
+ate = 0.1482, Butyrate =[] 
+
+Overfull \hbox (102.78088pt too wide) in paragraph at lines 339--339
+ []  \T1/pcr/m/n/10 meals = list(seed = 1, fluc.inflow = FALSE, fluc.subst.comp
+ = FALSE, plotInflow =[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 340--340
+ []    \T1/pcr/m/n/10 FALSE, saveInflowFig = FALSE, breakfast.start = 7, lunch.
+start = 13, dinner.start =[] 
+
+Overfull \hbox (42.78088pt too wide) in paragraph at lines 341--341
+ []    \T1/pcr/m/n/10 19, meal.duration.h = 0.5, time.to.reach.colon.h = 7, gam
+ma.mag = 1),[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 342--342
+ []  \T1/pcr/m/n/10 mucin = list(mucin.rate = 5, RS.frac.mucin = 0.5, mucin.deg
+rader = c("Bacteroides",[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 343--343
+ []    \T1/pcr/m/n/10 "NoButyFibreDeg"), halfSat.mucin = 0.5, P.frac.mucin = 0.
+2, C.frac.mucin = 0.75),[] 
+
+Overfull \hbox (120.78088pt too wide) in paragraph at lines 348--348
+ []  \T1/pcr/m/n/10 plotOptions = list(yLabel = "Concentration (g/L)", xLabel =
+ "Time", plotFig = FALSE,[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 349--349
+ []    \T1/pcr/m/n/10 sumOverStrains = FALSE, saveFig = FALSE, figType = "eps",
+ figName = "microPopFig"),[] 
+
+Overfull \hbox (0.78088pt too wide) in paragraph at lines 350--350
+ []  \T1/pcr/m/n/10 odeOptions = list(atol = 1e-06, rtol = 1e-06, method = "lso
+da"),[] 
+
+Overfull \hbox (60.78088pt too wide) in paragraph at lines 351--351
+ []  \T1/pcr/m/n/10 strainOptions = list(randomParams = c("halfSat", "yield", "
+maxGrowthRate",[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 352--352
+ []    \T1/pcr/m/n/10 "pHtrait"), seed = 1, distribution = "uniform", percentTr
+aitRange = 0, maxPHshift =[] 
+
+Overfull \hbox (72.78088pt too wide) in paragraph at lines 353--353
+ []    \T1/pcr/m/n/10 0, applyTradeOffs = FALSE, tradeOffParams = NULL, paramsS
+pecified = FALSE,[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 355--355
+ []  \T1/pcr/m/n/10 checkingOptions = list(checkMassConv = FALSE, balanceTol = 
+0.01, reBalanceStoichiom =[] 
+
+Overfull \hbox (120.78088pt too wide) in paragraph at lines 356--356
+ []    \T1/pcr/m/n/10 FALSE, stoiTol = 0.1, checkForNegs = TRUE, negTol = -0.01
+, checkStoichiomBalance =[] 
+[7]
+Overfull \hbox (97.38643pt too wide) in paragraph at lines 379--380
+[]\T1/ptm/m/n/10 list con-trol-ling pH in the model. De-fault is list(pH.fixed=
+c(5.7,6.2,6.6),fix.pH=FALSE,pHLimit=TRUE), 
+
+Overfull \hbox (166.8252pt too wide) in paragraph at lines 389--390
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing colon. De-fault is list(vol
+.litres=c(0.41,0.98,1.63),compartmentNames=c('prox','trans','dist')) 
+
+Overfull \hbox (134.62585pt too wide) in paragraph at lines 391--392
+[]\T1/ptm/m/n/10 List of pa-ram-e-ters for mod-elling bowel move-ments. De-faul
+t is list(BM.duration.h=15/60,frac.distal.emptied=0.90,
+
+Overfull \hbox (248.71489pt too wide) in paragraph at lines 402--403
+\T1/ptm/m/n/10 Pro-pi-onate and Bu-tyrate and wa-ter (W) in grams. De-fault val
+-ues are: list(C=1,P=1,B=10,Acetate=0.3606,Propionate=0.1482,Butyrate=0.1762,
+
+Overfull \hbox (703.16997pt too wide) in paragraph at lines 406--407
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing meals. De-fault is list(see
+d=1,fluc.inflow=FALSE,fluc.subst.comp=FALSE,plotInflow=FALSE,saveInflowFig=FALS
+E,breakfast.start=7,lunch.start=13,dinner.start=19,meal.duration.h=0.5,time.to.
+reach.colon.h=7,gamma.mag=1) 
+[8]
+Overfull \hbox (458.9524pt too wide) in paragraph at lines 424--425
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing mucins. De-fault is list(mu
+cin.rate=5,RS.frac.mucin=0.5,mucin.degrader=c('Bacteroides','NoButyFibreDeg'),h
+alfSat.mucin=0.5,P.frac.mucin=0.2,C.frac.mucin=0.75) 
+
+Overfull \hbox (2.66699pt too wide) in paragraph at lines 445--447
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for plot-ting: De-fault is li
+st(plotFig=TRUE, sumOver-
+
+Overfull \hbox (3.138pt too wide) in paragraph at lines 445--447
+\T1/ptm/m/n/10 Strains=FALSE, save-Fig=FALSE, fig-Type='eps', fig-Name='microPo
+pFig', yLa-
+
+Overfull \hbox (9.90642pt too wide) in paragraph at lines 448--449
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for the ODE solver ('de-S-olv
+e'). De-fault: list('atol'=1e-
+
+Overfull \hbox (84.47556pt too wide) in paragraph at lines 450--451
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for spec-i-fy-ing strain pa-r
+am-e-ters. De-fault: list(randomParams=c('halfSat',
+
+Overfull \hbox (7.5678pt too wide) in paragraph at lines 450--451
+\T1/ptm/m/n/10 TraitRange=0, maxPHshift=0., ap-ply-Trade-Offs=FALSE, trade-Off-
+Params=NULL,
+[9] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [10]
+Overfull \hbox (7.20671pt too wide) in paragraph at lines 502--503
+[]\T1/ptm/m/n/10 rateFuncsDefault=list(pHFunc=pHFuncDefault, pHLim-Func=pHLimFu
+ncDefault, ex-tra-Growth-Lim-
+
+Overfull \hbox (5.92717pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 Func=extraGrowthLimFuncDefault, growth-Lim-Func=growthLimFuncDef
+ault, com-bine-Growth-Lim-
+
+Overfull \hbox (64.09683pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 Func=combineGrowthLimFuncDefault, up-take-Func=uptakeFuncDefault
+, pro-duc-tion-Func=productionFuncDefault,
+
+Overfull \hbox (23.42612pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 com-binePaths-Func=combinePathsFuncDefault, mass-Bal-ance-Func=m
+assBalanceFuncDefault, en-tryRate-
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [11]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (54.78088pt too wide) in paragraph at lines 590--590
+ []\T1/pcr/m/n/10 removalRateFuncMPG(varName, varValue, stateVarValues, time, w
+ashOut, parms)[] 
+[12] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) (./Rd2.ind [13]
+[14]) (./Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courie
+r/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+ri8a.pfb>
+Output written on Rd2.pdf (14 pages, 118362 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2013] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (19 entries accepted, 0 rejected).
+Sorting entries....done (81 comparisons).
+Generating output file Rd2.ind....done (55 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./Rd2.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/texmf/tex/latex/Rd.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu)))
+Writing index file Rd2.idx
+(./Rd2.aux) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./Rd2.out) (./Rd2.out) (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd) (./Rd2.toc [1{/usr/sh
+are/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (60.78088pt too wide) in paragraph at lines 78--78
+ []\T1/pcr/m/n/10 entryRateFuncMPG(varName, varValue, stateVarValues, time, inf
+lowRate, parms)[] 
+[2] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [3]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [4]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (22.6782pt too wide) in paragraph at lines 253--254
+[]\T1/ptm/m/n/10 a named vec-tor con-trol-ling the shape of the gamma func-tion
+, e.g. c(A=0.5,B=1,C=1.5) 
+[5] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [6]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (72.78088pt too wide) in paragraph at lines 331--331
+ []  \T1/pcr/m/n/10 pH.pars = list(pH.fixed = c(5.7, 6.2, 6.6), fix.pH = FALSE,
+ pHLimit = TRUE),[] 
+
+Overfull \hbox (96.78088pt too wide) in paragraph at lines 332--332
+ []  \T1/pcr/m/n/10 colon.pars = list(vol.litres = c(0.41, 0.98, 1.63), compart
+mentNames = c("prox",[] 
+
+Overfull \hbox (108.78088pt too wide) in paragraph at lines 334--334
+ []  \T1/pcr/m/n/10 bowel.movements = list(BM.duration.h = 15/60, frac.distal.e
+mptied = 0.9, BMpd = 0,[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 336--336
+ []  \T1/pcr/m/n/10 init = list(C = 1, P = 1, B = 10, Acetate = 0.3606, Propion
+ate = 0.1482, Butyrate =[] 
+
+Overfull \hbox (102.78088pt too wide) in paragraph at lines 339--339
+ []  \T1/pcr/m/n/10 meals = list(seed = 1, fluc.inflow = FALSE, fluc.subst.comp
+ = FALSE, plotInflow =[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 340--340
+ []    \T1/pcr/m/n/10 FALSE, saveInflowFig = FALSE, breakfast.start = 7, lunch.
+start = 13, dinner.start =[] 
+
+Overfull \hbox (42.78088pt too wide) in paragraph at lines 341--341
+ []    \T1/pcr/m/n/10 19, meal.duration.h = 0.5, time.to.reach.colon.h = 7, gam
+ma.mag = 1),[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 342--342
+ []  \T1/pcr/m/n/10 mucin = list(mucin.rate = 5, RS.frac.mucin = 0.5, mucin.deg
+rader = c("Bacteroides",[] 
+
+Overfull \hbox (114.78088pt too wide) in paragraph at lines 343--343
+ []    \T1/pcr/m/n/10 "NoButyFibreDeg"), halfSat.mucin = 0.5, P.frac.mucin = 0.
+2, C.frac.mucin = 0.75),[] 
+
+Overfull \hbox (120.78088pt too wide) in paragraph at lines 348--348
+ []  \T1/pcr/m/n/10 plotOptions = list(yLabel = "Concentration (g/L)", xLabel =
+ "Time", plotFig = FALSE,[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 349--349
+ []    \T1/pcr/m/n/10 sumOverStrains = FALSE, saveFig = FALSE, figType = "eps",
+ figName = "microPopFig"),[] 
+
+Overfull \hbox (0.78088pt too wide) in paragraph at lines 350--350
+ []  \T1/pcr/m/n/10 odeOptions = list(atol = 1e-06, rtol = 1e-06, method = "lso
+da"),[] 
+
+Overfull \hbox (60.78088pt too wide) in paragraph at lines 351--351
+ []  \T1/pcr/m/n/10 strainOptions = list(randomParams = c("halfSat", "yield", "
+maxGrowthRate",[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 352--352
+ []    \T1/pcr/m/n/10 "pHtrait"), seed = 1, distribution = "uniform", percentTr
+aitRange = 0, maxPHshift =[] 
+
+Overfull \hbox (72.78088pt too wide) in paragraph at lines 353--353
+ []    \T1/pcr/m/n/10 0, applyTradeOffs = FALSE, tradeOffParams = NULL, paramsS
+pecified = FALSE,[] 
+
+Overfull \hbox (126.78088pt too wide) in paragraph at lines 355--355
+ []  \T1/pcr/m/n/10 checkingOptions = list(checkMassConv = FALSE, balanceTol = 
+0.01, reBalanceStoichiom =[] 
+
+Overfull \hbox (120.78088pt too wide) in paragraph at lines 356--356
+ []    \T1/pcr/m/n/10 FALSE, stoiTol = 0.1, checkForNegs = TRUE, negTol = -0.01
+, checkStoichiomBalance =[] 
+[7]
+Overfull \hbox (97.38643pt too wide) in paragraph at lines 379--380
+[]\T1/ptm/m/n/10 list con-trol-ling pH in the model. De-fault is list(pH.fixed=
+c(5.7,6.2,6.6),fix.pH=FALSE,pHLimit=TRUE), 
+
+Overfull \hbox (166.8252pt too wide) in paragraph at lines 389--390
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing colon. De-fault is list(vol
+.litres=c(0.41,0.98,1.63),compartmentNames=c('prox','trans','dist')) 
+
+Overfull \hbox (134.62585pt too wide) in paragraph at lines 391--392
+[]\T1/ptm/m/n/10 List of pa-ram-e-ters for mod-elling bowel move-ments. De-faul
+t is list(BM.duration.h=15/60,frac.distal.emptied=0.90,
+
+Overfull \hbox (248.71489pt too wide) in paragraph at lines 402--403
+\T1/ptm/m/n/10 Pro-pi-onate and Bu-tyrate and wa-ter (W) in grams. De-fault val
+-ues are: list(C=1,P=1,B=10,Acetate=0.3606,Propionate=0.1482,Butyrate=0.1762,
+
+Overfull \hbox (703.16997pt too wide) in paragraph at lines 406--407
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing meals. De-fault is list(see
+d=1,fluc.inflow=FALSE,fluc.subst.comp=FALSE,plotInflow=FALSE,saveInflowFig=FALS
+E,breakfast.start=7,lunch.start=13,dinner.start=19,meal.duration.h=0.5,time.to.
+reach.colon.h=7,gamma.mag=1) 
+[8]
+Overfull \hbox (458.9524pt too wide) in paragraph at lines 424--425
+[]\T1/ptm/m/n/10 list of pa-ram-e-ters de-scrib-ing mucins. De-fault is list(mu
+cin.rate=5,RS.frac.mucin=0.5,mucin.degrader=c('Bacteroides','NoButyFibreDeg'),h
+alfSat.mucin=0.5,P.frac.mucin=0.2,C.frac.mucin=0.75) 
+
+Overfull \hbox (2.66699pt too wide) in paragraph at lines 445--447
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for plot-ting: De-fault is li
+st(plotFig=TRUE, sumOver-
+
+Overfull \hbox (3.138pt too wide) in paragraph at lines 445--447
+\T1/ptm/m/n/10 Strains=FALSE, save-Fig=FALSE, fig-Type='eps', fig-Name='microPo
+pFig', yLa-
+
+Overfull \hbox (9.90642pt too wide) in paragraph at lines 448--449
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for the ODE solver ('de-S-olv
+e'). De-fault: list('atol'=1e-
+
+Overfull \hbox (84.47556pt too wide) in paragraph at lines 450--451
+[]\T1/ptm/m/n/10 List con-tain-ing in-struc-tions for spec-i-fy-ing strain pa-r
+am-e-ters. De-fault: list(randomParams=c('halfSat',
+
+Overfull \hbox (7.5678pt too wide) in paragraph at lines 450--451
+\T1/ptm/m/n/10 TraitRange=0, maxPHshift=0., ap-ply-Trade-Offs=FALSE, trade-Off-
+Params=NULL,
+[9] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [10]
+Overfull \hbox (7.20671pt too wide) in paragraph at lines 502--503
+[]\T1/ptm/m/n/10 rateFuncsDefault=list(pHFunc=pHFuncDefault, pHLim-Func=pHLimFu
+ncDefault, ex-tra-Growth-Lim-
+
+Overfull \hbox (5.92717pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 Func=extraGrowthLimFuncDefault, growth-Lim-Func=growthLimFuncDef
+ault, com-bine-Growth-Lim-
+
+Overfull \hbox (64.09683pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 Func=combineGrowthLimFuncDefault, up-take-Func=uptakeFuncDefault
+, pro-duc-tion-Func=productionFuncDefault,
+
+Overfull \hbox (23.42612pt too wide) in paragraph at lines 502--503
+\T1/ptm/m/n/10 com-binePaths-Func=combinePathsFuncDefault, mass-Bal-ance-Func=m
+assBalanceFuncDefault, en-tryRate-
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) [11]
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (54.78088pt too wide) in paragraph at lines 590--590
+ []\T1/pcr/m/n/10 removalRateFuncMPG(varName, varValue, stateVarValues, time, w
+ashOut, parms)[] 
+[12] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def) (./Rd2.ind [13]
+[14]) (./Rd2.aux) )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courie
+r/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+ri8a.pfb>
+Output written on Rd2.pdf (14 pages, 119190 bytes).
+Transcript written on Rd2.log.
+Saving output to ‘microPopGut-manual.pdf’ ...
+Done
+You may want to clean up by 'rm -Rf /tmp/Rtmpxu5Ejq/Rd2pdf432e6fdaaba1'

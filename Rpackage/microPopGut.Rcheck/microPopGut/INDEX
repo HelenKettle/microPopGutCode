@@ -1,0 +1,24 @@
+computeSCFA             computeSCFA
+entryRateFuncMPG        entry Rate Function for microPopGut
+growthLimFuncMPG        growth rate limitation function for microPopGut
+makeSubstrateMat        makeSubstrateMat this function calls
+                        mealsPattern(), mealComposition() and
+                        smallIntestine()
+mealComposition         mealComposition takes step function from
+                        mealsPattern() (in hours) then adds in dietary
+                        composition for each meal. This is randomised
+                        using a gamma distribtion (controlled by scale
+                        argument)
+mealsPattern            mealsPattern
+microPopGut             microPopGut runs the human colon version of
+                        microPop
+newRateFuncs            newRateFuncs for microPopGut
+pHFuncMPG               pH Function for microPopGut
+pHLimFuncMPG            pH Limitation Function for microPopGut
+plotMPG                 plotMPG
+removalRateFuncMPG      Removal Rate Function for microPopGut
+smallIntestine          smallIntestine put output from
+                        mealComposition(), combined with a time vec
+                        (col 1) through a one compartment ODE model
+                        (representing stomach and small intestine)
+verification            verification

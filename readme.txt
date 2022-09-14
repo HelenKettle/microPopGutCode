@@ -1,0 +1,1 @@
+This is the code accompanying the paper "Process-based modelling of microbial community dynamics in the human colon" by Helen Kettle, Petra Louis, Harry J. Flint which at the time of writing (Sept 2022) is in press in Royal Society Interface journal.
