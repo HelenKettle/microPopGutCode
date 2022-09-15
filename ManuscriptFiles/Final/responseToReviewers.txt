@@ -1,0 +1,18 @@
+Referee(s)' Comments to Author:
+Referee: 1
+
+Comments to the Author
+The authors satisfactorily addressed my comments from my previous review, although the key in figure 5 remains too small to read. I would also suggest incorporating a qualitative explanation of the axes in figure 5 (something like an arrow labeled ``increasing SR") so that the comparison with figures 6 & 8 is clearer.
+
+
+We have increased the legend size in Fig. 5 and added the following to the Figure caption:
+ 
+"The bars in the plots have been ordered to show increasing RS fraction (estimated by SI/CI) for the Walker study (for comparison with Fig. 8) and increasing carbohydrate for the Duncan study (for comparison with Fig. 6)"
+
+
+Referee: 2
+
+Comments to the Author
+All comments have been addressed, thank you.
+
+
